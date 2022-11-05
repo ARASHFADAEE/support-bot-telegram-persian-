@@ -1,2 +1,2 @@
 # support-bot
-support bot telegram
+Telegram bot to register consultation with wallet
